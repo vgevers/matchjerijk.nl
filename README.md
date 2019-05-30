@@ -1,5 +1,3 @@
-# Matchjerijk.nl
-
 Welkom!
 Op dit moment is het moeilijk om beschikbare opdrachten en vacatures te matchen met de talenten, persoonlijkheden en ambities van Rijksambtenaren" - zo luidde de probleemstelling van de hackathon op de Rijksconsultatiedag 1 november 2018.
 
