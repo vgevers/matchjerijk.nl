@@ -5,6 +5,8 @@ In de poging hier een antwoord op te formuleren hebben een groep van innovatieve
 
 
 ## Updates
+
+* De RijksTrainees gaan **Match je Rijk** als eindopdracht afronden in 2019.
 * De Hackathon startte op [1 november 2018](https://www.beleven.org/feesten/kalender.php?dag=1&maand=11&jaar=2018) in de [Rode Olifant](https://www.google.com/maps/dir//Rode+Olifant+den+haag/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x47c5b73e491ca051:0x85bd82c08d0ce87f?sa=X&ved=2ahUKEwiQ_8OhwZreAhXIDewKHb1qDQ4Q9RcwaXoECBAQEw) op de [Rijksconsultatiedag.nl](https://rijksconsultatiedag.nl) van [UBR](https://www.ubrijk.nl/)
 
 ### Deliverables
